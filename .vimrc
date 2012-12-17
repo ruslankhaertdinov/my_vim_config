@@ -152,9 +152,8 @@ menu Encoding.utf-8 :e ++enc=utf8 <CR>
 " С-q - выход из Vim
 " map <C-Q> <Esc>:qa<cr>
 
-" тема как в textmate
-" colorscheme vividchalk
-colorscheme torte
+" устанавливаем тему
+"colorscheme torte
 
 " отступы в rails
 autocmd User Rails set sw=2 sts=2 expandtab

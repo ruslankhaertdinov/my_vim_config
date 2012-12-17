@@ -1,0 +1,6 @@
+--color-match=red
+--color-filename=red
+--color-lineno=red
+-i
+--ignore-dir=.idea
+--ignore-dir=.git

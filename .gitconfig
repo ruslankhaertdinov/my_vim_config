@@ -1,0 +1,17 @@
+[user]
+  name = Ruslan Khaertdinov
+  email = ruslan.khaertdinov@flatstack.com
+
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  df = diff
+  hi = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  sh = show
+  gr = grep -n
+  re = rebase
+  ph = push
+[color]
+  ui = true
